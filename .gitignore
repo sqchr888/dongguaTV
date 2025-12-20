@@ -14,6 +14,15 @@ db.json
 app-debug.apk
 public/cache
 
+# IDE Config
+.idea/
+*.iml
+
+# Android/Capacitor Build
+android/app/build/
+android/.gradle/
+android/local.properties
+
 
 
 
