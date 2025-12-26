@@ -9,11 +9,11 @@ on:
       server_url:
         description: 'Server URL (e.g. https://your-site.com)'
         required: true
-        default: 'https://ednovas.video'
+        default: 'https://dgtv.ultracg.cn:16666'
       app_name:
         description: 'App Name'
         required: true
-        default: 'E视界'
+        default: '妖师盟影视'
       version_tag:
         description: 'Version Tag (e.g. v1.0.0)'
         required: true
